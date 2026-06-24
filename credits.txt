@@ -18,6 +18,50 @@ Oliver (Olipollyz)
 
 -----------------------------------
 
+INTEGRATED MODS
+
+Fishy's Buildings
+
+Special thanks to Fishy (onexs)!
+
+CS Item Pack
+
+By CanadianSniper.
+
+-----------------------------------
+
+SPECIAL HELP & THANKS
+
+SmokeTV
+
+The reason the map exists, in short
+
+DanceofJesus
+
+Learnt so much from DOJ
+
+Sumrak
+
+Misc modding help
+
+Bitteroot Dev (Matty)
+
+Advice
+
+MissMoody
+
+Map additions
+
+SeniMJ
+
+One of Azalea's biggest supporters
+
+KNEXEM & MR-PMB77
+
+Bug reports And all the QA testers, the mods, the admins and everyone else who I will include on website credits shortly.
+
+-----------------------------------
+
 SPECIAL THANKS & ACKNOWLEDGMENTS
 
 Bohemia Interactive
@@ -33,4 +77,3 @@ Our Beta Testers
 Thank you to everyone testing the map, finding the holes in the navmesh, and submitting reports to the BetaHub. Azalea wouldn't be stable without you!
 
 "Survival is not about who is the strongest, but who is the most adaptable."
-
