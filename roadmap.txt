@@ -1,0 +1,30 @@
+AZALEA ROADMAP 2026
+
+Our vision for Azalea is to create the most atmospheric and dynamic survival experience in DayZ. Here is what we are working on next:
+
+[ Q3 2026 - The Industrial Expansion ]
+
+We are focusing heavily on the Northern territories. Expect a massive new industrial zone complete with functional train yards, deep-shaft mines, and high-risk environmental hazards.
+
+- Expansion of the Northern Industrial Zone
+
+- Dynamic weather events (Acid Rain, Ash Storms)
+
+- Custom UI elements for player stats and progression
+
+- Complete overhaul of the vehicle repair mechanics
+
+[ Q4 2026 - The Winter Freeze ]
+
+As the year ends, Azalea will be covered in snow. Survival will require managing body temperature, finding shelter, and hunting scarce wildlife.
+
+- Full winter season integration with dynamic snow accumulation
+
+- New Tier 4 military installations hidden in the ice
+
+- Advanced player grouping and territory UI
+
+- Bear and wolf pack AI overhaul
+
+*Note: The roadmap is subject to change based on community feedback and BetaHub priority reports.*
+

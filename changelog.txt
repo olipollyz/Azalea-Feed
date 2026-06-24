@@ -1,0 +1,30 @@
+v0.40 — The Eruption Update
+
+[MAJOR FEATURES]
+
++ The Volcanic Eruption: Mount Azalea now periodically erupts. Stay clear of the ash clouds and watch out for dynamic lava flows!
+
++ The Underworld: A sprawling new network of caves beneath the volcano. Requires a gas mask and light source.
+
++ Completely overhauled the Southern Coastline with new fishing villages and dynamic boat spawns.
+
+[BALANCE & TWEAKS]
+
++ Rebalanced Tier 3 and 4 loot tables. High-end military gear is now significantly rarer outside of the volcano zone.
+
++ Increased the spawn rate of NBC gear in medical facilities.
+
++ Reduced the aggregate ambient noise volume during extreme weather events.
+
+[BUG FIXES]
+
+- Fixed a client crash caused by C.O.T admin teleports during camera shake events.
+
+- Resolved an issue where vanilla dynamic music would unintentionally play over the main menu theme.
+
+- Repaired broken navmesh bounds in the Northern Industrial Park.
+
+- Fixed a null pointer crash on respawn related to the login time base script.
+
+Thank you for participating in the Azalea Beta! Be sure to report any bugs to the BetaHub.
+

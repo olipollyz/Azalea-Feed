@@ -1,0 +1,36 @@
+AZALEA DEVELOPMENT TEAM
+
+[ PROJECT LEAD ]
+
+Oliver (Olipollyz)
+
+[ PROGRAMMING & UI ]
+
+Oliver (Olipollyz)
+
+[ LEVEL DESIGN & ENVIRONMENT ]
+
+Oliver (Olipollyz)
+
+[ 3D ART & ASSETS ]
+
+Oliver (Olipollyz)
+
+-----------------------------------
+
+SPECIAL THANKS & ACKNOWLEDGMENTS
+
+Bohemia Interactive
+
+For creating the DayZ Engine and providing the platform that makes all of this possible.
+
+The DayZ Modding Community
+
+For the countless tutorials, open-source tools, and endless support in the Discord servers.
+
+Our Beta Testers
+
+Thank you to everyone testing the map, finding the holes in the navmesh, and submitting reports to the BetaHub. Azalea wouldn't be stable without you!
+
+"Survival is not about who is the strongest, but who is the most adaptable."
+
