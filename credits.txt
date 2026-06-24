@@ -77,3 +77,5 @@ Our Beta Testers
 Thank you to everyone testing the map, finding the holes in the navmesh, and submitting reports to the BetaHub. Azalea wouldn't be stable without you!
 
 "Survival is not about who is the strongest, but who is the most adaptable."
+
+Updated: 2026-06-24 17:28
