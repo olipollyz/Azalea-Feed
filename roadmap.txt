@@ -1,30 +1,42 @@
 AZALEA ROADMAP 2026
 
-Our vision for Azalea is to create the most atmospheric and dynamic survival experience in DayZ. Here is what we are working on next:
+The biggest update yet in terms of challenging what can be done.
 
-[ Q3 2026 - The Industrial Expansion ]
+[ Q3 2026 - AZALEA SIGNAL 0.4 ]
 
-We are focusing heavily on the Northern territories. Expect a massive new industrial zone complete with functional train yards, deep-shaft mines, and high-risk environmental hazards.
+This update is about increasing the signal and reducing the noise.
 
-- Expansion of the Northern Industrial Zone
+- Removed some POIs like Nelson Industrial.
 
-- Dynamic weather events (Acid Rain, Ash Storms)
+- Dynamic weather events 
 
-- Custom UI elements for player stats and progression
+- New Volcano
 
-- Complete overhaul of the vehicle repair mechanics
+- Reworked several POIs, hopefully for the better.
 
-[ Q4 2026 - The Winter Freeze ]
+- Updated the main menu. 
 
-As the year ends, Azalea will be covered in snow. Survival will require managing body temperature, finding shelter, and hunting scarce wildlife.
+- Fixed hundreds of bugs. 
 
-- Full winter season integration with dynamic snow accumulation
+- Added some custom music, sound effects (these are WIP and will hopefully be replaced in future with higher quality). 
 
-- New Tier 4 military installations hidden in the ice
+And much much more.
 
-- Advanced player grouping and territory UI
+[ Q4 2026 & 2027 - IDEAS ]
 
-- Bear and wolf pack AI overhaul
+As the foundation of what is already in gets polished and stable I will focus on more NEW stuff, like new areas etc.
+
+- The long awaited expansion of the map begins, filling in the empty "debug" areas with the common pois and some unique POIs you never seen before in DayZ.
+
+- Custom Buildings and assets.
+
+- Basebuilding server
+
+- Monte Palace inspired Hotel mysterious POI.
+
+- Some sort of endgame location that will fit the lore and map and be something never seen before in DayZ.
+
+- Full retexture of all DayZ Vanilla items (food, drinks, gear etc, already ongoing but this is a huge project)
 
 *Note: The roadmap is subject to change based on community feedback and BetaHub priority reports.*
 
