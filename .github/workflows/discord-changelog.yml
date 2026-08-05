@@ -1,0 +1,20 @@
+name: Post changelog to Discord
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Post current changelog.txt to Discord
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          TITLE=$(head -n 1 changelog.txt)
+          BODY=$(tail -n +2 changelog.txt | sed '/^\s*$/d' | cut -c1-4000)
+          jq -n --arg title "$TITLE" --arg desc "$BODY" \
+            '{embeds: [{title: $title, description: $desc, color: 3066993}]}' > payload.json
+          curl -fsS -H "Content-Type: application/json" -d @payload.json "$DISCORD_WEBHOOK_URL"
