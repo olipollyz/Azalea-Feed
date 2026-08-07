@@ -108,10 +108,28 @@ def build_xml(updates, out_path):
     tree = ET.ElementTree(rss)
     tree.write(out_path, encoding='utf-8', xml_declaration=True)
 
+def build_txt(updates, out_path):
+    with open(out_path, 'w', encoding='utf-8') as f:
+        for u in updates:
+            f.write(f"Update {u['version']} - {u['date']}\n")
+            f.write("="*40 + "\n\n")
+            if u['description']:
+                f.write(f"{u['description']}\n\n")
+            
+            for cat, items in u['changes'].items():
+                if items:
+                    f.write(f"[{cat.upper()}]\n")
+                    for item in items:
+                        prefix = "-" if cat == "removed" or cat == "fixed" else "+"
+                        f.write(f"{prefix} {item}\n")
+                    f.write("\n")
+            f.write("\n")
+
 if __name__ == "__main__":
     import sys
     changelog_path = "CHANGELOG.md"
     updates = parse_changelog(changelog_path)
     build_json(updates, "changelog.json")
     build_xml(updates, "feed.xml")
-    print(f"Successfully built changelog.json and feed.xml from {len(updates)} releases.")
+    build_txt(updates, "changelog.txt")
+    print(f"Successfully built changelog.json, feed.xml, and changelog.txt from {len(updates)} releases.")

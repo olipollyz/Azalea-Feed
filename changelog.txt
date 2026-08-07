@@ -1,31 +1,75 @@
-v0.40 — The Eruption Update
+Update v0.4.0 - 2025-10-15
+========================================
 
-[MAJOR FEATURES]
+Closed Playtesting Begins. First wave of community playtesters join the Azalea servers. Major performance improvements and initial feedback collection.
 
-+ The Volcanic Eruption: Mount Azalea now periodically erupts. Stay clear of the ash clouds and watch out for dynamic lava flows!
+[ADDED]
++ Discord community server launched
++ BetaHub feedback integration
++ Initial spawn point balancing
 
-+ The Underworld: A sprawling new network of caves beneath the volcano. Requires a gas mask and light source.
+[CHANGED]
++ Server performance optimization
++ Loot distribution system
++ Terrain collision accuracy
 
-+ Completely overhauled the Southern Coastline with new fishing villages and dynamic boat spawns.
+[FIXED]
+- Various terrain clipping issues
+- Building placement bugs
+- Water shader artifacts
 
-[BALANCE & TWEAKS]
 
-+ Rebalanced Tier 3 and 4 loot tables. High-end military gear is now significantly rarer outside of the volcano zone.
+Update v0.3.0 - 2025-09-20
+========================================
 
-+ Increased the spawn rate of NBC gear in medical facilities.
+Two massive POIs added to the map - the dangerous volcanic crater zone and the abandoned military installation.
 
-+ Reduced the aggregate ambient noise volume during extreme weather events.
+[ADDED]
++ Volcanic Crater POI with unique loot
++ Military Base complex
++ Underground bunker system
++ New weapon spawns
 
-[BUG FIXES]
+[CHANGED]
++ Forest density and variation
++ Road network expansion
++ Lighting across the map
 
-- Fixed a client crash caused by C.O.T admin teleports during camera shake events.
+[FIXED]
+- Pathfinding issues in urban areas
+- Skybox artifacts at sunset
 
-- Resolved an issue where vanilla dynamic music would unintentionally play over the main menu theme.
 
-- Repaired broken navmesh bounds in the Northern Industrial Park.
+Update v0.2.0 - 2025-08-10
+========================================
 
-- Fixed a null pointer crash on respawn related to the login time base script.
+Expanded coastline with fishing villages, harbors, and beachside settlements.
 
-Thank you for participating in the Azalea Beta! Be sure to report any bugs to the BetaHub.
+[ADDED]
++ 3 fishing villages
++ Harbor district
++ Lighthouse POI
++ Beach camping spots
 
-+ Added this line for testing 2026-06-24 17:28 
+[CHANGED]
++ Ocean shader quality
++ Coastal terrain blending
++ Boat spawn locations
+
+[FIXED]
+- Water penetration in buildings
+- Coastal erosion visual bugs
+
+
+Update v0.1.0 - 2025-07-01
+========================================
+
+Initial Alpha Release. First playable version of Azalea released on Steam Workshop. Core terrain, basic POIs, and survival mechanics implemented.
+
+[ADDED]
++ 16km² island terrain
++ 10 major POIs
++ Basic loot economy
++ Steam Workshop integration
+
+
