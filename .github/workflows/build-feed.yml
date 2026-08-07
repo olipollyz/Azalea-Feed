@@ -1,0 +1,33 @@
+name: Build Changelog Feeds
+
+on:
+  push:
+    paths:
+      - 'CHANGELOG.md'
+      - 'build_feed.py'
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build feeds
+        run: python build_feed.py
+
+      - name: Commit generated files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add changelog.json feed.xml
+          git commit -m "Auto-generate changelog feeds" || echo "No changes to commit"
+          git push

@@ -1,0 +1,91 @@
+{
+  "updates": [
+    {
+      "id": "update-v0-4-0",
+      "version": "v0.4.0",
+      "date": "2025-10-15",
+      "title": "Update v0.4.0",
+      "description": "Closed Playtesting Begins. First wave of community playtesters join the Azalea servers. Major performance improvements and initial feedback collection.",
+      "changes": {
+        "added": [
+          "Discord community server launched",
+          "BetaHub feedback integration",
+          "Initial spawn point balancing"
+        ],
+        "changed": [
+          "Server performance optimization",
+          "Loot distribution system",
+          "Terrain collision accuracy"
+        ],
+        "fixed": [
+          "Various terrain clipping issues",
+          "Building placement bugs",
+          "Water shader artifacts"
+        ]
+      }
+    },
+    {
+      "id": "update-v0-3-0",
+      "version": "v0.3.0",
+      "date": "2025-09-20",
+      "title": "Update v0.3.0",
+      "description": "Two massive POIs added to the map - the dangerous volcanic crater zone and the abandoned military installation.",
+      "changes": {
+        "added": [
+          "Volcanic Crater POI with unique loot",
+          "Military Base complex",
+          "Underground bunker system",
+          "New weapon spawns"
+        ],
+        "changed": [
+          "Forest density and variation",
+          "Road network expansion",
+          "Lighting across the map"
+        ],
+        "fixed": [
+          "Pathfinding issues in urban areas",
+          "Skybox artifacts at sunset"
+        ]
+      }
+    },
+    {
+      "id": "update-v0-2-0",
+      "version": "v0.2.0",
+      "date": "2025-08-10",
+      "title": "Update v0.2.0",
+      "description": "Expanded coastline with fishing villages, harbors, and beachside settlements.",
+      "changes": {
+        "added": [
+          "3 fishing villages",
+          "Harbor district",
+          "Lighthouse POI",
+          "Beach camping spots"
+        ],
+        "changed": [
+          "Ocean shader quality",
+          "Coastal terrain blending",
+          "Boat spawn locations"
+        ],
+        "fixed": [
+          "Water penetration in buildings",
+          "Coastal erosion visual bugs"
+        ]
+      }
+    },
+    {
+      "id": "update-v0-1-0",
+      "version": "v0.1.0",
+      "date": "2025-07-01",
+      "title": "Update v0.1.0",
+      "description": "Initial Alpha Release. First playable version of Azalea released on Steam Workshop. Core terrain, basic POIs, and survival mechanics implemented.",
+      "changes": {
+        "added": [
+          "16km\u00b2 island terrain",
+          "10 major POIs",
+          "Basic loot economy",
+          "Steam Workshop integration"
+        ]
+      }
+    }
+  ]
+}
