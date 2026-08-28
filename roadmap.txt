@@ -2,7 +2,7 @@ AZALEA ROADMAP 2026
 
 The biggest update yet in terms of challenging what can be done.
 
-[ Q3 2026 - AZALEA SIGNAL 0.4 ]
+[ AZALEA SIGNAL 0.4 - LIVE 29 AUGUST 2026 ]
 
 This update is about increasing the signal and reducing the noise.
 
@@ -38,7 +38,7 @@ As the foundation of what is already in gets polished and stable I will focus on
 
 - Full retexture of all DayZ Vanilla items (food, drinks, gear etc, already ongoing but this is a huge project)
 
-*Note: The roadmap is subject to change based on community feedback and BetaHub priority reports.*
+*Note: The roadmap is subject to change based on community feedback and bug reports from Discord.*
 
-Updated: 2026-06-24 17:28
+Updated: 2026-08-28
 
