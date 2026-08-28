@@ -125,6 +125,9 @@ def build_txt(updates, out_path):
                     f.write("\n")
             f.write("\n")
 
+        # Stamped automatically on every build so it can never go stale.
+        f.write("Updated: " + datetime.now().strftime("%Y-%m-%d") + chr(10))
+
 if __name__ == "__main__":
     import sys
     changelog_path = "CHANGELOG.md"
