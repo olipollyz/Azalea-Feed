@@ -5,7 +5,7 @@
       "version": "v0.4.0",
       "date": "2026-08-29",
       "title": "Update v0.4.0",
-      "description": "Signal. The volcano erupts on its own, the island reacts, and there is a helicopter worth chasing if you can signal it. Photosensitivity warning: the eruption uses flashing lights and rapid full-screen effects. Hang gliders ship EXPERIMENTAL. They work, but they have rough edges: a brief visual flicker when landing in first person, the camera can clip into terrain if you dive into a steep cliff face, and wing movement can look choppy while turning. All being worked on. Report anything else in #bugs on Discord. Full changelog at azaleamap.com/changelog",
+      "description": "Signal. Warning: flashing lights during the eruption. Full notes at azaleamap.com/changelog",
       "changes": {
         "added": [
           "Volcanic eruption event",
