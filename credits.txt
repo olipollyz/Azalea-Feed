@@ -4,7 +4,16 @@ AZALEA DEVELOPMENT TEAM
 Oliver (Olipollyz) - design, programming, UI, level design, 3D art, audio.
 
 [ THE QA TEAM ]
-0.4 would not have shipped in this state without them. Nearly everything that reads as polished here is something a tester found first. Thank you to every QA tester, moderator and admin who gave up their evenings for this one.
+0.4 would not have shipped in this state without them. Nearly everything that reads as polished here is something a tester found first.
+BaldRSD - bug reports
+Boondockz - bug reports
+MissMoody - map additions
+SeniMJ - one of Azalea's biggest supporters
+KNEXEM & MR-PMB77 - bug reports
+Cass, Luke, and everyone who showed up to a session
+
+[ STAFF ]
+Thank you to the admins and mods who keep the servers and the Discord running.
 
 [ INTEGRATED MODS ]
 Fishy's Buildings - thanks to Fishy (onexs)
@@ -15,9 +24,6 @@ SmokeTV - the reason the map exists
 DanceofJesus - learnt so much from DOJ
 Sumrak - misc modding help
 Bitteroot Dev (Matty) - advice
-MissMoody - map additions
-SeniMJ - one of Azalea's biggest supporters
-KNEXEM & MR-PMB77 - bug reports
 Bohemia Interactive - the engine and the platform
 The DayZ modding community - tutorials, tools and endless help
 
