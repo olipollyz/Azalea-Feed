@@ -109,8 +109,10 @@ def build_xml(updates, out_path):
     tree.write(out_path, encoding='utf-8', xml_declaration=True)
 
 def build_txt(updates, out_path):
+    # The in-game main menu widget clips long text, so the .txt carries only
+    # the latest release. Full history stays in changelog.json and feed.xml.
     with open(out_path, 'w', encoding='utf-8') as f:
-        for u in updates:
+        for u in updates[:1]:
             f.write(f"Update {u['version']} - {u['date']}\n")
             f.write("="*40 + "\n\n")
             if u['description']:
@@ -126,6 +128,7 @@ def build_txt(updates, out_path):
             f.write("\n")
 
         # Stamped automatically on every build so it can never go stale.
+        f.write("Older updates at azaleamap.com/changelog" + chr(10) + chr(10))
         f.write("Updated: " + datetime.now().strftime("%Y-%m-%d") + chr(10))
 
 if __name__ == "__main__":
