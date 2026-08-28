@@ -1,75 +1,131 @@
-Update v0.4.0 - 2025-10-15
+Update v0.4.0 - 2026-08-29
 ========================================
 
-Closed Playtesting Begins. First wave of community playtesters join the Azalea servers. Major performance improvements and initial feedback collection.
+Signal. The volcano erupts on its own, the island reacts, and there is a helicopter worth chasing if you can signal it. Photosensitivity warning: the eruption uses flashing lights and rapid full-screen effects. Hang gliders ship EXPERIMENTAL. They work, but they have rough edges: a brief visual flicker when landing in first person, the camera can clip into terrain if you dive into a steep cliff face, and wing movement can look choppy while turning. All being worked on. Report anything else in #bugs on Discord. Full changelog at azaleamap.com/changelog
 
 [ADDED]
-+ Discord community server launched
-+ BetaHub feedback integration
-+ Initial spawn point balancing
-
-[CHANGED]
-+ Server performance optimization
-+ Loot distribution system
-+ Terrain collision accuracy
++ Volcanic eruption event
++ Pyroclastic surge
++ Ashfall damage
++ Lava
++ Volcanic lightning
++ Eruption visual effects
++ Eruption music
++ Lava ambient audio
++ Radio and PA emergency broadcasts
++ The Signal, a recurring transmission on powered radios
++ Helicopter event
++ Hang glider (EXPERIMENTAL), 2 variants
++ Hang glider wreck dynamic event
++ Cloud Forest biome
++ Lagoa Verde
++ Cedro performance pass
++ Airfield performance pass
++ Additional POI performance passes
 
 [FIXED]
-- Various terrain clipping issues
-- Building placement bugs
-- Water shader artifacts
+- Rocks on the beach were floating above the sand
+- Trees in the Fogo area were floating above the ground
+- A castle wall clipped through the gas station pump island
+- A stray sidewalk sat out in the wilderness
+- Prison island satmap and mask were incorrect
+- Feedshacks and hunting stands collided with generated forest
+- Wind turbines were not functional
 
 
-Update v0.3.0 - 2025-09-20
+Update v0.3.5 - 2026-02-01
 ========================================
 
-Two massive POIs added to the map - the dangerous volcanic crater zone and the abandoned military installation.
+Live Alpha. Azalea moved away from scheduled playtests to something closer to live-service alpha: the island stays up, and updates ship as they are ready.
 
 [ADDED]
-+ Volcanic Crater POI with unique loot
-+ Military Base complex
-+ Underground bunker system
-+ New weapon spawns
++ Custom earplugs: press N to toggle, arrow keys to cycle volume levels
++ Combinable items: bandages, rags and other stackables
++ New clothing: Chernarus Military Sweater, Grey Gulag Jacket, Traditional Hunting Boots
++ New crafting: Bear Headdresses, worms for fishing bait
++ Green and TTsKO Attack 2 Bags in high-tier and contaminated zones
++ Seasonal spooky infected, active automatically during Halloween
 
 [CHANGED]
-+ Forest density and variation
-+ Road network expansion
-+ Lighting across the map
++ Prison Island ship made permanently toxic, gas mask required
++ Cedro performance pass
++ Ambulance wrecks corrected to carry only medical, food and clothing
++ C130 crash site loot corrected
++ Helicopter crash site count reduced
++ Airfield weapon tiers rebalanced
++ Contaminated Area: FAL and AugShort buffed
++ Sonar Restricted Area: Kazuar Optic made findable
++ Underground Bunker weapon spawns increased
++ Police car spawns reduced to intended levels
++ Night vision goggles rebalanced
++ Day/night cycle: 3-hour days, 30-minute nights
++ General performance optimization pass
 
 [FIXED]
-- Pathfinding issues in urban areas
-- Skybox artifacts at sunset
+- Several invisible exploit gaps closed with walls
+- Tire and spare wheel spawns on vehicle wrecks were not spawning
+- AK101 was not spawning properly
+- Two offroad vehicle types were not spawning correctly
 
 
-Update v0.2.0 - 2025-08-10
+Update v0.3.4 - 2025-09-23
 ========================================
 
-Expanded coastline with fishing villages, harbors, and beachside settlements.
+Grounded. Not a flashy update, but the map getting serious: stability, polish, and a lot of accumulated fixes.
 
 [ADDED]
-+ 3 fishing villages
-+ Harbor district
-+ Lighthouse POI
-+ Beach camping spots
++ New static plane crash sites across the island
++ Wells restored at camps and settlements
++ New Azalea loading screens
++ Discord, Twitch and Ko-fi buttons in the main menu
 
 [CHANGED]
-+ Ocean shader quality
-+ Coastal terrain blending
-+ Boat spawn locations
++ Weather balance adjusted, less excessive rain
++ Player spawn points reworked
++ Loot tiers adjusted for better progression
++ Sonar pillars and panels reworked
 
 [FIXED]
-- Water penetration in buildings
-- Coastal erosion visual bugs
+- Water tile gaps near airfields
+- Sonar pylons stayed lit after shutdown
+- Infected in dynamic events got stuck
+- Firestation exploit gap closed
+- Livonia tower and bunker exit placement corrected
+- Lorry rear wheels clipped into terrain
 
 
-Update v0.1.0 - 2025-07-01
+Update v0.3.0 - 2024-10-02
 ========================================
 
-Initial Alpha Release. First playable version of Azalea released on Steam Workshop. Core terrain, basic POIs, and survival mechanics implemented.
+Expansion. The island went from a handful of POIs to a full-scale world.
 
 [ADDED]
-+ 16km² island terrain
-+ 10 major POIs
-+ Basic loot economy
-+ Steam Workshop integration
++ 24 new locations: cities, military bases, villages, ruins and camps
++ Fresh 4-tier loot economy
++ Cave tunnels across the map
++ Directional signs
++ Shipwrecks and a crashed AC-130
+
+[CHANGED]
++ Full forest rework across the island
++ Highlands reworked
++ Central lake recolored to tropical blue
++ Roads smoothed and hiking paths fixed
+
+
+Update v0.0.1 - 2023-12-01
+========================================
+
+First Light. The first time anyone stepped foot on Azalea.
+
+[ADDED]
++ Azalea cargo trucks, 4 variants
++ Azalea Bridge, modelled after the real bridge
++ Reworked Echo Fortress and the Hotel POI
++ Custom main menu with DMCA-free music
++ Loot system reworked with a tiered structure
+
+[CHANGED]
++ More cows, roosters and crocodiles
 
 
