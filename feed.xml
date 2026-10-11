@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Azalea Changelog Feed</title><link>https://github.com/olipollyz/Azalea-Feed</link><description>Updates for Azalea DayZ Map</description><item><title>Azalea v0.4.0 - 2026-08-29</title><guid>update-v0-4-0</guid><pubDate>2026-08-29</pubDate><description>Signal. Warning: flashing lights during the eruption. Full notes at azaleamap.com/changelog
+<rss version="2.0"><channel><title>Azalea Changelog Feed</title><link>https://github.com/olipollyz/Azalea-Feed</link><description>Updates for Azalea DayZ Map</description><item><title>Azalea v0.4.3 - 2026-10-11</title><guid>update-v0-4-3</guid><pubDate>2026-10-11</pubDate><description>Homegrown. Over 800 island items, no wipe. Full notes at azaleamap.com/changelog
+
+### Added
+- Over 800 island items: clothes, food, drinks, tools, medical and ammo boxes with local brands and Portuguese names
+- Island infected: fishermen, bombeiros, police, farmers, a festa crowd and the confraria
+- In-game bug report on the escape menu
+- Head protection against ash and heat in graded tiers
+- Sondagem fence hum, audible from about 25 m
+
+### Changed
+- About 7 in 10 items with an island version now spawn as the island one
+- Vanilla police and paramedic clothing and infected replaced by island versions
+- Food spawns in town buildings near the airfield
+- Pioneer can spawn in military loot
+- Helipad reward rifles come assembled with spare mags
+- Night vision in kits comes on its headstrap
+- Landing kits carry a variometer instead of a GPS
+- Eruptions about 4.5 hours apart instead of 3
+- Infected and animals die at the Sondagem fence
+- Smaller item textures, faster download
+
+### Fixed
+- Glider hotkey server crash
+- Glider camp server crash
+- Changing gear while gliding
+- Eruption lost on server restart, it now resumes
+- Surge damage now follows the visible cloud
+- Surge sound now travels with the cloud
+- Other players' eruption screen effects showing on your screen
+- Shock vision flashing yellow during an eruption
+- Eruption blur over the inventory and map
+- Sondagem fence shocking knocked-out players
+- Sonar helmet and vehicles protect at the fence again
+- Players locked in a shipping container after a restart
+- Logging in underwater dragged you to the lakebed
+- Glider not deploying after a vault or climb
+- Head dipping into the terrain on stalled glider landings
+- Helicopter event stutter for high-ping players
+- Glider kit keys opened nothing
+- Garbled symbols in item descriptions
+</description></item><item><title>Azalea v0.4.0 - 2026-08-29</title><guid>update-v0-4-0</guid><pubDate>2026-08-29</pubDate><description>Signal. Warning: flashing lights during the eruption. Full notes at azaleamap.com/changelog
 
 ### Added
 - Volcanic eruption event

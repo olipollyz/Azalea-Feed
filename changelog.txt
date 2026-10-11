@@ -1,38 +1,48 @@
-Update v0.4.0 - 2026-08-29
+Update v0.4.3 - 2026-10-11
 ========================================
 
-Signal. Warning: flashing lights during the eruption. Full notes at azaleamap.com/changelog
+Homegrown. Over 800 island items, no wipe. Full notes at azaleamap.com/changelog
 
 [ADDED]
-+ Volcanic eruption event
-+ Pyroclastic surge
-+ Ashfall damage
-+ Lava
-+ Volcanic lightning
-+ Eruption visual effects
-+ Eruption music
-+ Lava ambient audio
-+ Radio and PA emergency broadcasts
-+ The Signal, a recurring transmission on powered radios
-+ Helicopter event
-+ Hang glider (EXPERIMENTAL), 2 variants
-+ Hang glider wreck dynamic event
-+ Cloud Forest biome
-+ Lagoa Verde
-+ Cedro performance pass
-+ Airfield performance pass
-+ Additional POI performance passes
++ Over 800 island items: clothes, food, drinks, tools, medical and ammo boxes with local brands and Portuguese names
++ Island infected: fishermen, bombeiros, police, farmers, a festa crowd and the confraria
++ In-game bug report on the escape menu
++ Head protection against ash and heat in graded tiers
++ Sondagem fence hum, audible from about 25 m
+
+[CHANGED]
++ About 7 in 10 items with an island version now spawn as the island one
++ Vanilla police and paramedic clothing and infected replaced by island versions
++ Food spawns in town buildings near the airfield
++ Pioneer can spawn in military loot
++ Helipad reward rifles come assembled with spare mags
++ Night vision in kits comes on its headstrap
++ Landing kits carry a variometer instead of a GPS
++ Eruptions about 4.5 hours apart instead of 3
++ Infected and animals die at the Sondagem fence
++ Smaller item textures, faster download
 
 [FIXED]
-- Rocks on the beach were floating above the sand
-- Trees in the Fogo area were floating above the ground
-- A castle wall clipped through the gas station pump island
-- A stray sidewalk sat out in the wilderness
-- Prison island satmap and mask were incorrect
-- Feedshacks and hunting stands collided with generated forest
-- Wind turbines were not functional
+- Glider hotkey server crash
+- Glider camp server crash
+- Changing gear while gliding
+- Eruption lost on server restart, it now resumes
+- Surge damage now follows the visible cloud
+- Surge sound now travels with the cloud
+- Other players' eruption screen effects showing on your screen
+- Shock vision flashing yellow during an eruption
+- Eruption blur over the inventory and map
+- Sondagem fence shocking knocked-out players
+- Sonar helmet and vehicles protect at the fence again
+- Players locked in a shipping container after a restart
+- Logging in underwater dragged you to the lakebed
+- Glider not deploying after a vault or climb
+- Head dipping into the terrain on stalled glider landings
+- Helicopter event stutter for high-ping players
+- Glider kit keys opened nothing
+- Garbled symbols in item descriptions
 
 
 Older updates at azaleamap.com/changelog
 
-Updated: 2026-08-28
+Updated: 2026-10-11
